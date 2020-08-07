@@ -1,0 +1,164 @@
+/* #a700ff */
+
+
+/* 
+    app core design
+*/
+.app-wrapper{
+    background-attachment: scroll;
+    /* background: url('/images/background-3.jpg'); */
+    background-size:cover;    
+}
+
+
+/* 
+    app banner/header design
+*/
+
+.banner-title{
+    text-align:center
+}
+
+
+
+
+/*
+    upper navigation design     
+*/
+
+.upper-nav{
+    padding:40px 0px;
+    text-align: center;
+}
+
+.contact-button{
+    text-decoration: none !important;
+    padding:5px;
+    display: block;
+    background-color: #a700ff;
+    width:40%;
+    text-align: center; 
+    color:#fff;
+    border-radius: 10px;
+    transition: 0.5s;
+    text-align: center;
+}
+
+.contact-button:hover{
+    color:#fff;
+    background: #7726a6;
+}
+
+ul.social-icons{
+    text-align: center;
+}
+
+ul.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0px 5px;
+}
+
+ul.social-icons li a{
+    text-decoration: none;
+}
+ul.social-icons li a i{
+    font-size: 25px;
+}
+
+.youtube{
+    color:#F40004
+}
+
+.github{
+    color:#24292E
+}
+
+.linkedin{
+    color:#2773B0
+}
+
+.docker{
+    color:#42A0F0;
+}
+
+.facebook{
+    color:#4267B2
+}
+
+
+
+
+/* 
+    Hero/information area design
+*/
+
+.intro-area{
+    padding:70px 0px
+}
+
+.intro-area .name-title{
+    font-size:60px;
+    font-weight:600;
+  
+}
+
+.typewrite{
+    color:#333 !important;
+    text-decoration: none !important;
+}
+
+.hero-area{
+    padding:0px
+}
+
+.designation{
+    font-size: 20px;
+    margin:0px 0px;
+    
+}
+
+.information-paragraph{
+    padding: 15px 0px;
+}
+
+.short-skill-promo{
+    text-align: left;
+    padding:0px
+}
+
+.short-skill-promo li{
+    list-style: none;
+    padding:4px 0px;
+}
+
+.arrow{
+    color:#a700ff;
+}
+
+.image{
+    border : 1px solid black;
+    height:80%;
+    width:80%;
+    border-radius: 30%;
+}
+
+
+
+
+/* 
+    education area design
+*/
+
+
+
+
+
+/* 
+    work experience area design
+*/
+
+
+
+
+
