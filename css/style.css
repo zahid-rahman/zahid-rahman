@@ -10,13 +10,20 @@
     background-size:cover;    
 }
 
+.incomplete{
+    color : #f03
+}
+
 
 /* 
     app banner/header design
 */
 
 .banner-title{
-    text-align:center
+    text-align:center;
+    font-weight:700;
+    font-size:50px;
+    padding:40px 0px;
 }
 
 
@@ -150,6 +157,30 @@ ul.social-icons li a i{
     education area design
 */
 
+
+.schooling ul{
+    list-style:none;
+    padding:0px
+}
+
+.schooling ul li{
+    padding : 10px 0px;
+}
+
+
+.university-undergraduation ul{
+    list-style:none;
+    padding:0px 40px;
+}
+
+.university-undergraduation ul li{
+    padding : 10px 0px;
+}
+
+.university-postgraduation ul li{
+    list-style: none;
+    padding: 0px 30px
+}
 
 
 
