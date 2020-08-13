@@ -190,6 +190,18 @@ ul.social-icons li a i{
 */
 
 
+/* 
+    skill area design 
+*/
+.skill-area{
+    padding:40px 0px;
+}
+
+.skills li{
+    padding : 10px 0px;
+    list-style:none;
+}
+
 
 
 
