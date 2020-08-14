@@ -6,7 +6,6 @@
 */
 .app-wrapper{
     background-attachment: scroll;
-    /* background: url('/images/background-3.jpg'); */
     background-size:cover;    
 }
 
@@ -34,7 +33,7 @@
 */
 
 .upper-nav{
-    padding:40px 0px;
+    padding:35px 0px;
     text-align: center;
 }
 
@@ -101,7 +100,7 @@ ul.social-icons li a i{
 */
 
 .intro-area{
-    padding:70px 0px
+    padding:40px 0px
 }
 
 .intro-area .name-title{
@@ -167,7 +166,6 @@ ul.social-icons li a i{
     padding : 10px 0px;
 }
 
-
 .university-undergraduation ul{
     list-style:none;
     padding:0px 40px;
@@ -182,13 +180,19 @@ ul.social-icons li a i{
     padding: 0px 30px
 }
 
-
-
-
 /* 
     work experience area design
 */
+.work-experience-area{
+    padding : 40px 0px;
+}
+.experience-information {
+    text-align :center;
+}
 
+.experience-information .company-name{
+    font-size : 20px
+}
 
 /* 
     skill area design 
@@ -197,11 +201,11 @@ ul.social-icons li a i{
     padding:40px 0px;
 }
 
+.skills{
+    padding : 0px
+}
+
 .skills li{
     padding : 10px 0px;
     list-style:none;
 }
-
-
-
-
