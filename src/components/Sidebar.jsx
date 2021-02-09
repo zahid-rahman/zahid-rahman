@@ -17,7 +17,7 @@ const Sidebar = () => {
             <div className="sidebarItem sidebarTitle">Software Engineer</div>
             <div className="sidebarItem">
                 <a href={resume} className="downloadButton" download="resume.pdf">
-                <i class="fas fa-file-download"></i>
+                <i className="fas fa-file-download"></i>
                 <span className="ml-1">download resume</span>
                 </a>
             </div>
@@ -40,11 +40,11 @@ const Sidebar = () => {
             </div>
             <div className="contact">
                 <div className="sidebarItem">
-                    <i class="fas fa-at"></i>
+                    <i className="fas fa-at"></i>
                     <span className="ml-1">rahmanzahid298@gmail.com</span>
                 </div>
                 <div className="sidebarItem">
-                    <i class="fas fa-map-marker-alt"></i>
+                    <i className="fas fa-map-marker-alt"></i>
                     <span className="ml-2">Dhaka,Bangladesh</span>
                 </div>
             </div>

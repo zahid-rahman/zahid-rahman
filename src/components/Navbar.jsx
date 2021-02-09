@@ -1,9 +1,21 @@
-import React, { useState } from 'react'
+import React, { useState,useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
 const Navbar = () => {
 
     const [active, setActive] = useState('About')
+    useEffect(() => {
+        const currentUrl = window.location.href
+        if(currentUrl.endsWith('/')){
+            setActive('About')
+        }
+        else if(currentUrl.endsWith('/resume')) {
+            setActive('Resume')
+        }
+        else if(currentUrl.endsWith('/projects')) {
+            setActive('Projects')
+        }
+    },[active])
 
     return (
         <div className="navbar">
@@ -13,16 +25,16 @@ const Navbar = () => {
             <div className="navbarItems">
                 {
                     active !== 'About' ?
-                        <Link to='/'>
-                            <div className="navbarItem" onClick={() => setActive('About')}>About</div>
+                        <Link to='/' className="navbarItem"onClick={() => setActive('About')}>
+                            About
                         </Link> :
                         null
                 }
 
                 {
                     active !== 'Resume' ?
-                        <Link to='/resume'>
-                            <div className="navbarItem" onClick={() => setActive('Resume')}>Resume</div>
+                        <Link to='/resume' className="navbarItem" onClick={() => setActive('Resume')}>
+                           Resume
                         </Link>
                         :
                         null
@@ -30,8 +42,8 @@ const Navbar = () => {
 
                 {
                     active !== 'Projects' ?
-                        <Link to="/projects">
-                            <div className="navbarItem" onClick={() => setActive('Projects')}>Projects</div>
+                        <Link to="/projects" className="navbarItem" onClick={() => setActive('Projects')}>
+                            Projects
                         </Link>:
                         null
                 }

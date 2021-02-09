@@ -1,11 +1,26 @@
 import React from 'react'
-
+import experienceData from '../json/experience.json'
+import ExperienceCards from './ExperienceCards';
 const About = () => {
+
+    const experienceCards = experienceData.map((workExperiences,index) => {
+        return <ExperienceCards key={index} experience={workExperiences}></ExperienceCards>
+    })
+
     return (
-        <div>
-            <h1>About</h1>
-            <p>this is about component</p>
-        </div>
+       <div className="about">
+           <h6 className="aboutIntro">
+           Experienced Full Stack Web Developer with a demonstrated history of working in the internet industry. Skilled in RESTful webservices, Javascript,Nodejs,MERN stack development,MySQL,MongoDB,PHP, Java, Android Development.Strong engineering professional graduated from B.SC in Software engineering at American International university Bangladesh. 
+           </h6>
+            <div className="container-fluid aboutContainer">
+                <h4 className="aboutHeading">Working experience</h4>
+                <div className="row">
+                    {experienceCards}
+                </div>
+            </div>
+
+
+       </div>
     )
 };
 
