@@ -2,37 +2,150 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background-image: linear-gradient(to right bottom,#c94b4b,#4b134f);
+  background-attachment: fixed;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.appSidebar {
+  background : #fff;
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 0 0 20px black;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.mainContent {
+  background : #fff;
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 0 0 20px black;
+}
+
+.container {
+  padding-top: 50px;
+}
+.row{
+  height:90vh
+}
+
+
+/* sidebar designs */
+
+.sidebarAvatar{
+  height:110px;
+  width: 110px;
+  object-fit: contain;
+  border-radius: 50%;
+  margin-top: 40px;
+}
+
+.sidebarItem {
+  margin-bottom:6px;
+  padding-top: 6px;
+  height: 40px;
+  font-size:1.05rem
+}
+
+.sidebarName {
+  margin-top:30px;
+}
+
+
+.sidebarTitle {
+  background:rgb(243, 240, 240);
+  border-radius: 20px;
+  width:80%;
+  margin:5px auto;
+}
+
+.github,.facebook,.linkedin,.docker {
+  font-size:27px;
+  margin-left:4px;
+  color:#4b134f;
+}
+
+.contact{
+  background:rgb(243, 240, 240);
+  width:80%;
+  margin:20px auto;
+  padding:0px 10px
+}
+
+.emailButton {
+  background:linear-gradient(to right bottom,#c94b4b,#4b134f);
+  border-radius: 20px;
+  padding:10px 40px;
+  width: 100%;
+  margin:20px auto;
+  text-decoration: none !important;
+  color:#fff
+}
+
+.emailButton:hover{
+  color:#fff
+}
+
+.downloadButton {
+  width: 80%;
+  margin:20px auto;
+  color:#4b134f;
+  text-decoration: none !important;
+}
+
+.downloadButton:hover{
+  color:#4b134f
+}
+
+
+/* navbar */
+
+.navbar {
+  padding:30px
+}
+
+.navbarActive {
+  font-size:2rem;
+  font-weight: 700;
+  color:#354358;
+  border-bottom:4px solid #c94b4b;
+}
+
+.navbarItems {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.navbarItem {
+  margin-right: 20px;
+  text-decoration: none;
+  color:#354358;
+  font-size: 1.3rem;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.navbarItem:hover{
+  background: -webkit-linear-gradient(#c94b4b,#4b134f);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+@media screen and (max-width:1199px) {
+  .contact {
+    width: 90%;
+    margin:20px auto;
   }
-  to {
-    transform: rotate(360deg);
+}
+
+@media screen and (max-width:991px) {
+  .mainContent {
+    margin: 30px 0px;
+  }
+}
+
+@media screen and (max-width:357px) {
+  .contact{
+    width: 100%;
+    margin:20px 0;
   }
 }
