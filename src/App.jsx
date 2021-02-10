@@ -1,9 +1,9 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
-import About from './components/About'
-import Resume from './components/Resume'
-import Projects from './components/Projects'
+import About from './components/about/About'
+import Resume from './components/resume/Resume'
+import Projects from './components/projects/Projects'
 import { BrowserRouter as Router, Redirect, Route, Switch, useLocation } from 'react-router-dom'
 import { AnimatePresence } from 'framer-motion';
 

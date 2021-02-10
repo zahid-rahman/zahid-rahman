@@ -1,8 +1,8 @@
 import React from 'react'
-import experienceData from '../json/experience.json'
-import ExperienceCards from './ExperienceCards';
+import experienceData from '../../json/experience.json'
+import ExperienceCards from '../ExperienceCards';
 import { motion } from 'framer-motion';
-
+import './about.css'
 const About = () => {
 
     const experienceCards = experienceData.map((workExperiences,index) => {

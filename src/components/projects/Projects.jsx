@@ -1,11 +1,12 @@
 import React, { useState } from 'react'
-import projectData from '../json/projectDetails'
-import ProjectCard from './ProjectCard';
+import projectData from '../../json/projectDetails'
+import ProjectCard from '../ProjectCard';
 import {motion} from 'framer-motion'
+import './project.css'
 
 const Projects = () => {
     const [projects,setProjects] = useState(projectData)
-    const [active,setActive] = useState(projectData)
+    const [active,setActive] = useState('All')
 
     const filterCategoryAction = (category) => {
         const filteredProjectData = projectData.filter(project => project.category.includes(category))

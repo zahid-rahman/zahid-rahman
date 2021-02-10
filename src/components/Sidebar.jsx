@@ -40,16 +40,16 @@ const Sidebar = () => {
             </div>
 
             <div className="sidebarSocialIcons">
-                <a href="" className="github" alt="github">
+                <a href="https://github.com/zahid-rahman" target="_blank" className="github" alt="github">
                     <i className="fab fa-github github"></i>
                 </a>
-                <a href="" className="docker" alt="linkedin">
+                <a href="https://www.linkedin.com/in/md-zahid-rahman/" className="docker" target="_blank" alt="linkedin">
                     <i className="fab fa-linkedin linkedin"></i>
                 </a>
-                <a href="" className="docker" alt="docker">
+                <a href="https://hub.docker.com/u/zahid009" target="_blank" className="docker" alt="docker">
                     <i className="fab fa-docker docker"></i>
                 </a>
-                <a href="" className="facebook">
+                <a href="https://www.facebook.com/jahidrahman.ragib/" target="_blank" className="facebook">
                     <i className="fab fa-facebook-square facebook"></i>
                 </a>
 

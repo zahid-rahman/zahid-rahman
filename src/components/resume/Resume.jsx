@@ -1,11 +1,12 @@
 import React from 'react'
-import EducationCard from './EducationCard'
-import educationData from '../json/education.json'
-import languageSkillData from '../json/languageSkill.json'
-import techSkill from '../json/techsSkill.json'
-import industrySkill from '../json/otherSkills.json'
-import Bar from './Bar';
+import EducationCard from '../EducationCard'
+import educationData from '../../json/education.json'
+import languageSkillData from '../../json/languageSkill.json'
+import techSkill from '../../json/techsSkill.json'
+import industrySkill from '../../json/otherSkills.json'
+import Bar from '../Bar';
 import { motion } from 'framer-motion';
+import './resume.css'
 
 
 const Resume = () => {
