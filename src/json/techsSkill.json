@@ -1,0 +1,28 @@
+[
+    {
+        "icon": "fab fa-node",
+        "title": "Nodejs",
+        "level": "90"
+    },
+    {
+        "icon": "fab fa-react",
+        "title": "React",
+        "level": "85"
+    },
+    {
+        "icon": "fab fa-laravel",
+        "title": "Laravel",
+        "level": "60"
+    },
+    {
+        "icon": "fas fa-database",
+        "title": "MySQL",
+        "level": "85"
+    },
+    {
+        "icon": "fab fa-docker",
+        "title": "Docker",
+        "level": "70"
+    }
+
+]

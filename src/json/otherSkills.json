@@ -1,0 +1,28 @@
+[
+    {
+        "icon": "fas fa-code",
+        "title": "backend dev",
+        "level": "90"
+    },
+    {
+        "icon": "fas fa-laptop-code",
+        "title": "frontend dev",
+        "level": "85"
+    },
+    {
+        "icon": "fas fa-user-cog",
+        "title": "DevOps",
+        "level": "65"
+    },
+    {
+        "icon": "fas fa-file-code",
+        "title": "Mern stack",
+        "level": "70"
+    },
+    {
+        "icon": "fas fa-server",
+        "title": "Restful service",
+        "level": "90"
+    }
+
+]

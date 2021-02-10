@@ -1,0 +1,17 @@
+[
+    {
+        "curricullumName":"Bsc in SE (Software Engineering)",
+        "passingYear" : "2015-2019",
+        "academyName" : "American International University-Bangladesh"
+    },
+    {
+        "curricullumName":"HSC",
+        "passingYear" : "2012-2014",
+        "academyName" : "Milestone school & college"
+    },
+    {
+        "curricullumName":"SSC",
+        "passingYear" : "2010-2012",
+        "academyName" : "Milestone school & college"
+    }
+]

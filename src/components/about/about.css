@@ -1,0 +1,37 @@
+.aboutContainer{
+    width:90%;
+    margin:20px auto;
+    padding:20px;
+    background-color: #dbdddf;
+  }
+  
+  .aboutHeading {
+    margin:0px 0px 30px 0px;
+  }
+  
+  .aboutIntro {
+    padding:0px 20px;
+  }
+  
+  .cardData {
+    background-color:#ffffff;
+    padding:20px 20px 5px 20px;
+    margin:10px;
+    border-radius: 10px;
+  }
+  
+  
+  .experienceDataList {
+    padding:0;
+    list-style: none;
+  }
+  
+  .experienceDataList li {
+    padding:0;
+    margin:0;
+  }
+  
+  .companyImage {
+     margin:20px 0px
+  }
+  

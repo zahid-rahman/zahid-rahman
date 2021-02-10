@@ -1,0 +1,22 @@
+.resumeContainer{
+    width:100%;
+    margin:20px auto;
+    padding:20px;
+  }
+  
+  .resumeRow {
+    margin:20px 0px;
+  }
+  
+  .progressRow{
+    margin-top:50px;
+  }
+  
+  .progressHeader{
+    margin:30px 0px 0px 0px
+  }
+  
+  .skillSection {
+    margin:60px 0px
+  }
+  
