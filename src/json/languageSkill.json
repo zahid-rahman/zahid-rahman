@@ -1,0 +1,28 @@
+[
+    {
+        "icon": "fab fa-js-square",
+        "title": "Javascript",
+        "level": "90"
+    },
+    {
+        "icon": "fab fa-java",
+        "title": "Java",
+        "level": "60"
+    },
+    {
+        "icon": "fab fa-python",
+        "title": "Python",
+        "level": "70"
+    },
+    {
+        "icon": "fab fa-php",
+        "title": "PHP",
+        "level": "70"
+    },
+    {
+        "icon": "fab fa-html5",
+        "title": "HTML",
+        "level": "95"
+    }
+
+]
