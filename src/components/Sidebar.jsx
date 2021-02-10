@@ -2,14 +2,31 @@ import React from 'react'
 import '../index.css'
 import profile_image from '../assets/images/profile_image.jpg'
 import resume from '../assets/zahid_cv.pdf'
+import {motion} from 'framer-motion'
 const Sidebar = () => {
 
     const sendEmailAction = () => {
         window.open("mailto:rahmanzahid298@gmail.com")
     }
 
+    const sidebarVarient = {
+        hidden:{
+            x:'-20vw',
+        },
+        visible:{
+            x:0,
+            transition:{
+                delay:0.2,duration:0.7,type:'spring'
+            }
+        }
+    }
+
     return (
-        <div className="appSidebar">
+        <motion.div className="appSidebar"
+        variants={ sidebarVarient}
+        initial='hidden'
+        animate="visible"
+    >
             <img src={profile_image} alt="avatar" className="sidebarAvatar" />
             <div className="sidebarName">
                 <h2>zahid rahman</h2>
@@ -51,7 +68,7 @@ const Sidebar = () => {
             <div className="sidebarItem sidebar_emailing">
                 <a href="#" className="emailButton" onClick={sendEmailAction}>email me</a>
             </div>
-        </div>
+        </motion.div>
     )
 }
 

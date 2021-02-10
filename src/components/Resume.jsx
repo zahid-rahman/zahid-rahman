@@ -5,6 +5,8 @@ import languageSkillData from '../json/languageSkill.json'
 import techSkill from '../json/techsSkill.json'
 import industrySkill from '../json/otherSkills.json'
 import Bar from './Bar';
+import { motion } from 'framer-motion';
+
 
 const Resume = () => {
     const educationDataCard = educationData.map((education, index) => {
@@ -23,9 +25,31 @@ const Resume = () => {
         return <Bar key={index} value={skills}></Bar>
     })
 
+    const resumeVarient = {
+        hidden:{
+            opacity:0
+        },
+        visible:{
+            opacity:1,
+            transition:{
+                delay:0.2,duration:0.6,
+            }
+        },
+        exit: {
+            opacity:0,
+            transition:{
+                ease:'easeInOut'
+            }
+        }
+    }
 
     return (
-        <div className="container resumeContainer">
+        <motion.div className="container resumeContainer"
+            variants={resumeVarient}
+            initial='hidden'
+            animate="visible"
+            exit="exit"
+        >
             <div className="educationSection">
                 <h3 className="text-center">Education</h3>
                 <div className="row resumeRow">
@@ -51,7 +75,7 @@ const Resume = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </motion.div>
     )
 };
 

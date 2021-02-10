@@ -1,14 +1,39 @@
 import React from 'react'
 import experienceData from '../json/experience.json'
 import ExperienceCards from './ExperienceCards';
+import { motion } from 'framer-motion';
+
 const About = () => {
 
     const experienceCards = experienceData.map((workExperiences,index) => {
         return <ExperienceCards key={index} experience={workExperiences}></ExperienceCards>
     })
 
+    const aboutVarient = {
+        hidden:{
+            opacity:0
+        },
+        visible:{
+            opacity:1,
+            transition:{
+                delay:0.2,duration:0.6,
+            }
+        },
+        exit: {
+            opacity:0,
+            transition:{
+                ease:'easeInOut'
+            }
+        }
+    }
+    
     return (
-       <div className="about">
+       <motion.div className="about"
+        variants={aboutVarient}
+        initial='hidden'
+        animate='visible'
+        exit="exit"
+       >
            <h6 className="aboutIntro">
            Experienced Full Stack Web Developer with a demonstrated history of working in the internet industry. Skilled in RESTful webservices, Javascript,Nodejs,MERN stack development,MySQL,MongoDB,PHP, Java, Android Development.Strong engineering professional graduated from B.SC in Software engineering at American International university Bangladesh. 
            </h6>
@@ -20,7 +45,7 @@ const About = () => {
             </div>
 
 
-       </div>
+       </motion.div>
     )
 };
 
