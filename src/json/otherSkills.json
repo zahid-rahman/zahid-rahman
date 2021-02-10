@@ -12,12 +12,12 @@
     {
         "icon": "fas fa-user-cog",
         "title": "DevOps",
-        "level": "60"
+        "level": "65"
     },
     {
         "icon": "fas fa-file-code",
         "title": "Mern stack",
-        "level": "85"
+        "level": "70"
     },
     {
         "icon": "fas fa-server",
