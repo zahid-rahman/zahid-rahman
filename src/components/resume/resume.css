@@ -1,9 +1,16 @@
-.resumeContainer{
+/* .resumeContainer{
     width:100%;
     margin:20px auto;
     padding:20px;
+    overflow-x:hidden;
+  } */
+
+  .resumeContainer{
+    height: 70vh;
+    padding-top: 30px;
+    overflow-y: auto;
   }
-  
+
   .resumeRow {
     margin:20px 0px;
   }
