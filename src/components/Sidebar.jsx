@@ -33,7 +33,7 @@ const Sidebar = () => {
             </div>
             <div className="sidebarItem sidebarTitle">Software Engineer</div>
             <div className="sidebarItem">
-                <a href={resume} className="downloadButton" download="resume.pdf">
+                <a href={resume} className="downloadButton" download="zahid_rahman_cv.pdf">
                 <i className="fas fa-file-download"></i>
                 <span className="ml-1">download resume</span>
                 </a>
