@@ -1,7 +1,7 @@
 import React from 'react'
 import '../index.css'
 import profile_image from '../assets/images/profile_image.jpg'
-import resume from '../assets/zahid_cv.pdf'
+import resume from '../assets/zahid_rahman_cv.pdf'
 import {motion} from 'framer-motion'
 const Sidebar = () => {
 
