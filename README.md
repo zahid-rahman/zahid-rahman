@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# 🙋‍♂️ Hi, I am Md.Zahid Rahman
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<div align="center">
+    <img src="./welcome.gif" alt="drawing" width="50%"/>
+</div>    
 
-In the project directory, you can run:
+#### I am a Full-Stack Software Developer, passionate programmer and tech enthusiastic.Currently working for Omex Courier and Logistics Ltd as a Full-Stack Software Engineer
 
-### `npm start`
+- #### :zap: Languages: 
+    ` JavaScriipt `  ` Python `  ` PHP `  ` Java `   ` C/C++ `  ` MySQL ` ` postgreSQL `
+- #### :zap: Frameworks and Libraries: 
+   ` Express `  ` React`  ` Laravel `  ` Jquery ` ` Nodejs ` ` Tailwind css `
+- #### :zap: Tech Stacks:
+   ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux `
+- #### :zap: Industry Knowledge:   
+   ` Full stack web development `  ` MERN stack `  ` RESTful webservices ` 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### My stats
+![Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahid-rahman&show_icons=true&theme=radical)
 
-### `npm test`
+### Github
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahid-rahman&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Contact Me
+   <a href="https://www.linkedin.com/in/md-zahid-rahman/a"><img src="./linkedin.png" alt="drawing" width="30"/></a>
+   <a href="https://www.facebook.com/khanasfirezapranto10"><img src="./fb.png" alt="drawing" width="30"/></a>
+<!---
+zahid-rahman/zahid-rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
