@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="./welcome.gif" alt="drawing" width="50%"/>
+    <img src="./welcome-pics.gif" width="50%" alt="welcome" />
 </div>    
 
 #### I am a Full-Stack Software Developer, passionate programmer and tech enthusiastic.Currently working for Omex Courier and Logistics Ltd as a Full-Stack Software Engineer
