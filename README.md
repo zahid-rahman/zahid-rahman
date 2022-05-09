@@ -26,8 +26,8 @@
 
 
 #### Contact Me
-   <a href="https://www.linkedin.com/in/md-zahid-rahman/a"><img src="./linkedin.png" alt="drawing" width="30"/></a>
-   <a href="https://www.facebook.com/khanasfirezapranto10"><img src="./fb.png" alt="drawing" width="30"/></a>
+   <a href="https://www.linkedin.com/in/md-zahid-rahman/a"><img src="./LinkedIn_icon_circle.svg.png" alt="drawing" width="30"/></a>
+   <a href="https://www.facebook.com/jahidrahman.ragib/"><img src="./fab.png" alt="drawing" width="30"/></a>
 <!---
 zahid-rahman/zahid-rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
