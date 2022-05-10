@@ -1,4 +1,4 @@
-# :information_desk_person: Hi, I'm Md.Zahid Rahman
+# :man: Hi, I'm Md.Zahid Rahman
 
 
 <div align="center">
