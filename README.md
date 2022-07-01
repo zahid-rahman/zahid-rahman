@@ -8,7 +8,7 @@
 #### I am a Full-Stack Software Developer,a passionate programmer and tech enthusiastic. Currently working for Omex Courier and Logistics Ltd as a Full-Stack Software Engineer
 
 - #### :zap: Languages: 
-    ` JavaScriipt `  ` Python `  ` PHP `  ` Java `   ` C/C++ `  ` MySQL ` ` postgreSQL `
+    ` JavaScriipt `  ` Python `  ` TypeScriipt ` ` PHP `  ` Java `   ` C/C++ `  ` MySQL ` ` postgreSQL `
 - #### :zap: Frameworks and Libraries: 
    ` Express `  ` React`  ` Laravel `  ` Jquery ` ` Nodejs ` ` Tailwind css `
 - #### :zap: Tech Stacks:
