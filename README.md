@@ -14,7 +14,7 @@
 - #### :zap: Tech Stacks:
    ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux `
 - #### :zap: Industry Knowledge:   
-   ` Full stack web development `  ` MERN stack `  ` RESTful webservices ` 
+   ` Full stack web development `  ` MERN stack `  ` RESTful webservices `  ` Test Driven Development `
 
 
 ### My stats
