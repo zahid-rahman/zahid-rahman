@@ -8,13 +8,15 @@
 #### I am a Full-Stack Software Developer,a passionate programmer and tech enthusiastic. Currently working for Omex Courier and Logistics Ltd as a Full-Stack Software Engineer
 
 - #### :zap: Languages: 
-    ` JavaScript `  ` Python `  ` TypeScript ` ` PHP `  ` Java `   ` C/C++ `  ` MySQL ` ` postgreSQL ` ` mongodb ` ` firebase `
+    ` JavaScript `  ` Python `  ` TypeScript ` ` PHP `  ` Java `   ` C/C++ `  ` golang `
+- #### :zap: Database:
+     ` MySQL ` ` postgreSQL ` ` Oracle SQL` ` mongodb ` ` firebase ` 
 - #### :zap: Frameworks and Libraries: 
-   ` Express `  ` React`  ` Laravel `  ` Jquery ` ` Nodejs ` ` Tailwind css `
-- #### :zap: Tech Stacks:
+   ` Express `  ` React`  ` Laravel `  ` Jquery ` ` Nodejs ` ` Tailwind css ` ` gin `
+- #### :zap: Tech Tools:
    ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux `
 - #### :zap: Industry Knowledge:   
-   ` Full stack web development `  ` MERN stack `  ` RESTful webservices `  ` Test Driven Development `
+   ` Full stack web development `  ` MERN stack `  ` RESTful webservices `  ` Test Driven Development ` ` Microservices `
 
 
 ### My stats
