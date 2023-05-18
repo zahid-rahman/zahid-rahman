@@ -8,15 +8,15 @@
 #### I am a Full-Stack Software Developer,a passionate programmer and tech enthusiastic. Currently working for Programming Hero as a software engineer
 
 - #### :zap: Languages: 
-    ` JavaScript `  ` Python `  ` TypeScript ` ` PHP `  ` Java `   ` C/C++ `  ` golang `
+    ` JavaScript `  ` Python `  ` TypeScript ` ` PHP `  ` Java `   ` C/C++ ` 
 - #### :zap: Database:
-     ` MySQL ` ` postgreSQL ` ` Oracle SQL` ` mongodb ` ` firebase ` 
+     ` MySQL ` ` PostgreSQL ` ` Oracle SQL` ` mongodb ` ` firebase ` 
 - #### :zap: Frameworks and Libraries: 
-   ` Express `  ` React`  ` Laravel `  ` Jquery ` ` Nodejs ` ` Tailwind css ` ` gin `
+   ` Express `  `React`  ` Next js` `Material UI` `Ant Design` ` Laravel ` ` Jquery ` ` Nodejs ` ` Tailwind css `
 - #### :zap: Tech Tools:
-   ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux `
+   ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux ` `Socket`
 - #### :zap: Industry Knowledge:   
-   ` Full stack web development `  ` MERN stack `  ` RESTful webservices `  ` Test Driven Development ` ` Microservices `
+   ` Full stack web development ` ` MERN stack ` ` RESTful webservices ` ` Test Driven Development ` ` Microservices `
 
 
 ### My stats
