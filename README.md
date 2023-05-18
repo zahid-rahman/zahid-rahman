@@ -5,7 +5,7 @@
     <img src="./welcome-pics.gif" width="50%" alt="welcome" />
 </div>    
 
-#### I am a Full-Stack Software Developer,a passionate programmer and tech enthusiastic. Currently working for Omex Courier and Logistics Ltd as a Full-Stack Software Engineer
+#### I am a Full-Stack Software Developer,a passionate programmer and tech enthusiastic. Currently working for Programming Hero as a software engineer
 
 - #### :zap: Languages: 
     ` JavaScript `  ` Python `  ` TypeScript ` ` PHP `  ` Java `   ` C/C++ `  ` golang `
