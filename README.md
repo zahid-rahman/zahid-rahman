@@ -14,7 +14,7 @@
 - #### :zap: Frameworks and Libraries: 
    ` Express `  `React`  ` Next js` `Material UI` `Ant Design` ` Laravel ` ` Jquery ` ` Nodejs ` ` Tailwind css `
 - #### :zap: Tech Tools:
-   ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux ` ` Socket `  `AWS ` ` Linode ` ` Digital Ocean `
+   ` Git `  ` Redis `  ` Jest ` ` Docker ` ` Linux ` ` Socket `  `AWS ` ` Linode ` ` Digital Ocean ` `Jenkins`
 - #### :zap: Industry Knowledge:   
    ` Full stack web development ` ` MERN stack ` ` RESTful webservices ` ` Test Driven Development ` ` Microservices ` ` System Design `
 
